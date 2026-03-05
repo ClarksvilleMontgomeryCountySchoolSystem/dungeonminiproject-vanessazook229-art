@@ -1,5 +1,5 @@
 drawbridge_raised = True
-outcome = "Thunder: You can pass through."
+outcome = "Doom: You cant pass through"
 if not drawbridge_raised:
-    outcome = "Doom: You cant pass through"
+    outcome = "Thunder: You can pass through."
 print(outcome)

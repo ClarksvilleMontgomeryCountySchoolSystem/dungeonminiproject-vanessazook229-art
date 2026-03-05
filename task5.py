@@ -1,5 +1,5 @@
 escaped = True
-outcome = "You can leave!"
+outcome = "Legend: You can leave!"
 if not escaped:
-    outcome = "you cant leave."
+    outcome = "Doom: you cant leave."
 print(outcome)
